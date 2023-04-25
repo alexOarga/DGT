@@ -1,3 +1,0 @@
-import graphgps
-
-print("OK")
