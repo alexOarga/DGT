@@ -1,0 +1,3 @@
+import graphgps
+
+print("OK")
